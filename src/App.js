@@ -1,27 +1,20 @@
-import logo from './logo.svg';
+import React from 'react';
+import NavBar from './components/navbar'
+import Home from './components/home'
 import './App.css'; 
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import { connect } from 'react-redux';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hey Geo
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+
+  render() {
+    return(
+      <div className="app">
+        <Home/>
+      </div>
+    )
+  }
 }
 
 export default connect()(App);
