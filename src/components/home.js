@@ -32,7 +32,7 @@ class Home extends React.Component {
                     <Carousel.Item>
                         <img
                         className="d-block w-100"
-                        src="https://images.pexels.com/photos/5708861/pexels-photo-5708861.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=940"
+                        src="https://images.pexels.com/photos/5708861/pexels-photo-5708861.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
                         alt="Third slide"
                         />
                         <Carousel.Caption>
