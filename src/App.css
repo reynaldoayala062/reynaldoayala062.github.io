@@ -12,7 +12,6 @@ body {
   position: sticky;
   display: flex;
   flex-direction: row;
-  justify-content: space-between;
   width: 300px;
 }
 
@@ -81,4 +80,9 @@ h1 {
 .app {
   display: flex;
   flex-direction: column;
+}
+
+img {
+  width: 10%;
+  height: 100%;
 }
