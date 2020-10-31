@@ -17,9 +17,6 @@ class NavBar extends React.Component {
                         <h6> Project </h6>
                     </div>
                     <div className="nav-item" onClick={this.handleClick}>
-                        <h6> Blog </h6>
-                    </div>
-                    <div className="nav-item" onClick={this.handleClick}>
                         <h6> Contact </h6>
                     </div>
                 </div>

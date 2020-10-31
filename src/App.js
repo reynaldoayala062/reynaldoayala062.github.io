@@ -2,6 +2,7 @@ import React from 'react';
 import NavBar from './components/navbar'
 import Home from './components/home'
 import ProjectContainer from './components/project_container'
+import BlogContainer from './components/blog_container'
 import './App.css'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -23,8 +24,17 @@ class App extends React.Component {
     return(
       <div className="app">
         <NavBar handlePage={this.handlePage} />
-        {this.state.page === "Project" ? <ProjectContainer/> : null}
+        <div>
+          <Home/>
+        </div>
+        <div>
+          <ProjectContainer/>
+        </div>
+        
+
+        {/* {this.state.page === "Project" ? <ProjectContainer/> : null}
         {this.state.page === "Home" ? <Home/> : null}
+        {this.state.page === "Blog" ? <BlogContainer/> : null} */}
       </div>
     )
   }

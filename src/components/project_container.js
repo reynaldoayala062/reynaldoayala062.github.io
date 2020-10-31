@@ -3,16 +3,50 @@ import Project from './project'
 
 class ProjectContainer extends React.Component {
 
-    state = {
-        videos: [<iframe title="Finish-Line"width="560" height="315" src="https://www.youtube.com/embed/Qvqbt1LUQOs?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>, <iframe title="Mountain-Man"width="560" height="315" src="https://www.youtube.com/embed/NqvEFH_CUa0?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>, <iframe title="Connecting-The-Dots" width="560" height="315" src="https://www.youtube.com/embed/UMwWLrZC0zs?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>, <iframe title="Block-Buster" width="560" height="315" src="https://www.youtube.com/embed/b5PyqvDaQi4?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe> ]
-    }
 
     render() {
         return(
             <div className="project-container">
-                <h6>All Projects</h6>
-                {this.state.videos.map(video => <Project video={video} />)}
+
+                <div className="project">
+                    <div className="project-item">
+                        <iframe title="Finish-Line"width="560" height="315" src="https://www.youtube.com/embed/Qvqbt1LUQOs?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                    </div>
+                    <div className="project-item">
+                    <a href="https://github.com/reynaldoayala062/finish-line-frontend ">Git Hub</a>
+                    </div>
+                </div>
+                <br/>
+                <div className="project">
+                    <div className="project-item">
+                        <iframe title="Mountain-Man"width="560" height="315" src="https://www.youtube.com/embed/NqvEFH_CUa0?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                    </div>
+                    <div className="project-item">
+                    <a href="https://github.com/smithspencer817/mountainman">Git Hub</a>
+                    </div>
+                </div>
+                <br/>
+                <div className="project">
+                    <div className="project-item">
+                        <iframe title="Connecting-The-Dots" width="560" height="315" src="https://www.youtube.com/embed/UMwWLrZC0zs?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+                    </div>
+                    <div className="project-item">
+                    <a href="https://github.com/reynaldoayala062/Connecting-the-Dots-Frontend">Git Hub Frontend</a>
+                    <a href="https://github.com/reynaldoayala062/Connecting-the-Dots-Backend">Git Hub Backend</a>
+                    </div>
+                </div>
+                <br/>
+                <div className="project">
+                    <div className="project-item">
+                        <iframe title="Block-Buster" width="560" height="315" src="https://www.youtube.com/embed/b5PyqvDaQi4?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe> 
+                    </div>
+                    <div className="project-item">
+                    <a href="https://github.com/reynaldoayala062/block-buster">Git Hub</a>
+                    </div>
+                </div>
+
             </div>
+            
         )
     }
 }
