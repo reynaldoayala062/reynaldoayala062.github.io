@@ -14,7 +14,7 @@ class NavBar extends React.Component {
         return(
             <div className="navbar">
                 <div className="nav">
-                    <div className="nav-item" onClick={this.handleClick} >
+                    <div className="nav-item">
                     <a href="https://www.linkedin.com/in/reynaldo-ayala-1b18b172/" target="blank" >
                         <img src={Linkedin} alt="" href="google.com"/>
                     </a>
