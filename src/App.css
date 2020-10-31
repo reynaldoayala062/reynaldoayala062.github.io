@@ -13,10 +13,10 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
-  width: 300px;
+  width: 350px;
   margin-left: auto;
-  height: 30px;
-  text-align: center;
+  height: 35px;
+  text-align: right;
 }
 
 .nav-item {
@@ -92,6 +92,6 @@ img {
   height: 100%;
 }
 
-h2{
+h2 {
   font-family: cursive;
 }
