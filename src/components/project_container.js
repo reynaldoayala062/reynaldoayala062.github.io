@@ -22,7 +22,7 @@ class ProjectContainer extends React.Component {
                         <iframe title="Mountain-Man"width="560" height="315" src="https://www.youtube.com/embed/NqvEFH_CUa0?start=5" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
                     </div>
                     <div className="project-item">
-                    <a href="https://github.com/smithspencer817/mountainman">Git Hub</a>
+                    <a href="https://github.com/smithspencer817/mountainman"><h1>Git Hub</h1></a>
                     </div>
                 </div>
                 <br/>
