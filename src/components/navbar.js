@@ -19,19 +19,19 @@ class NavBar extends React.Component {
                     
                     <div className="nav-item">
                     <a href="https://www.linkedin.com/in/reynaldo-ayala-1b18b172/" target="blank" >
-                        <img src={Linkedin} alt="" href="google.com"/>
+                        <img className="button" src={Linkedin} alt="" href="google.com"/>
                     </a>
                     <a href="https://www.youtube.com/channel/UClF70456tB11P5BP5zxNfHw?view_as=subscriber" target="blank" >
-                        <img src={Youtube} alt=""/>
+                        <img className="button" src={Youtube} alt=""/>
                     </a>
                     <a href="https://www.facebook.com/profile.php?id=100004277175364" target="blank" >
-                        <img src={Facebook} alt=""/>
+                        <img className="button" src={Facebook} alt=""/>
                     </a>
                     <a href="https://github.com/reynaldoayala062" target="blank" >
-                        <img src={Github} alt=""/>
+                        <img className="button" src={Github} alt=""/>
                     </a>
                     <a href="https://medium.com/@reynaldo_ayala" target="blank" >
-                        <img src={Medium} alt=""/>
+                        <img className="button" src={Medium} alt=""/>
                     </a>
                     </div>
                 </div>
