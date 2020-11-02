@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b3652e9.chunk.css",
-    "main.js": "/static/js/main.79cf1bfc.chunk.js",
-    "main.js.map": "/static/js/main.79cf1bfc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d4443676.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d4443676.js.map",
-    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.b75f2e7b.chunk.js": "/static/js/2.b75f2e7b.chunk.js",
-    "static/js/2.b75f2e7b.chunk.js.map": "/static/js/2.b75f2e7b.chunk.js.map",
-    "static/js/3.a967add1.chunk.js": "/static/js/3.a967add1.chunk.js",
-    "static/js/3.a967add1.chunk.js.map": "/static/js/3.a967add1.chunk.js.map",
+    "main.css": "/static/css/main.48c6abdd.chunk.css",
+    "main.js": "/static/js/main.42e9a4e6.chunk.js",
+    "main.js.map": "/static/js/main.42e9a4e6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8bd8cea3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8bd8cea3.js.map",
+    "static/css/2.109aacae.chunk.css": "/static/css/2.109aacae.chunk.css",
+    "static/js/2.017cb84e.chunk.js": "/static/js/2.017cb84e.chunk.js",
+    "static/js/2.017cb84e.chunk.js.map": "/static/js/2.017cb84e.chunk.js.map",
+    "static/js/3.99f26ae1.chunk.js": "/static/js/3.99f26ae1.chunk.js",
+    "static/js/3.99f26ae1.chunk.js.map": "/static/js/3.99f26ae1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.5b3652e9.chunk.css.map": "/static/css/main.5b3652e9.chunk.css.map",
-    "static/js/2.b75f2e7b.chunk.js.LICENSE.txt": "/static/js/2.b75f2e7b.chunk.js.LICENSE.txt",
+    "static/css/2.109aacae.chunk.css.map": "/static/css/2.109aacae.chunk.css.map",
+    "static/css/main.48c6abdd.chunk.css.map": "/static/css/main.48c6abdd.chunk.css.map",
+    "static/js/2.017cb84e.chunk.js.LICENSE.txt": "/static/js/2.017cb84e.chunk.js.LICENSE.txt",
+    "static/media/Reynaldo Ayala Resume - Google Docs.8e7d134b.pdf": "/static/media/Reynaldo Ayala Resume - Google Docs.8e7d134b.pdf",
     "static/media/Screen Shot 2020-10-31 at 10.42.04 AM.0c84305e.png": "/static/media/Screen Shot 2020-10-31 at 10.42.04 AM.0c84305e.png",
     "static/media/Screen Shot 2020-10-31 at 10.44.57 AM.2747d8c1.png": "/static/media/Screen Shot 2020-10-31 at 10.44.57 AM.2747d8c1.png",
     "static/media/Screen Shot 2020-10-31 at 12.45.59 PM.5c0fd104.png": "/static/media/Screen Shot 2020-10-31 at 12.45.59 PM.5c0fd104.png",
@@ -21,10 +22,10 @@
     "static/media/Screen Shot 2020-10-31 at 12.55.06 PM.6871829d.png": "/static/media/Screen Shot 2020-10-31 at 12.55.06 PM.6871829d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d4443676.js",
-    "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.b75f2e7b.chunk.js",
-    "static/css/main.5b3652e9.chunk.css",
-    "static/js/main.79cf1bfc.chunk.js"
+    "static/js/runtime-main.8bd8cea3.js",
+    "static/css/2.109aacae.chunk.css",
+    "static/js/2.017cb84e.chunk.js",
+    "static/css/main.48c6abdd.chunk.css",
+    "static/js/main.42e9a4e6.chunk.js"
   ]
 }
