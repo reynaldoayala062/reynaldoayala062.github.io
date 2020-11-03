@@ -38,6 +38,7 @@ class ProjectContainer extends React.Component {
                         </div>
                     </Slide>
                 </div>
+                <br/>
                 <div className="project">
                     <Slide>
                         <div className="project-item">
