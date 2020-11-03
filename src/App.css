@@ -1,16 +1,16 @@
 body {
-  /* background: linear-gradient(#141e30, #2c598d); */
-  background: white;
+  background: linear-gradient(#1f2833, #13181f);
 }
 
 .navbar {
-  background-color: grey;
+  background-color: #1f2833;
   position: sticky;
+  top: 0;
+  width: 100%;
 }
 
 .nav {
-  background-color: grey;
-  position: sticky;
+  background-color: #1f2833;
   display: flex;
   flex-direction: row;
   justify-content: flex-end;
@@ -30,15 +30,14 @@ body {
 }
 
 h1 {
-  color: aliceblue;
+  color: #c5c6c7;
 }
 
 .home {
   margin: auto;
   width: 950px;
-  padding-top: 50px;
+  padding-top: 30px;
   padding-bottom: 50px;
-
 }
 
 .project-container {
@@ -49,18 +48,24 @@ h1 {
   display: flex;
   flex-direction: column;
   justify-content: space-between */
+  padding-bottom: 50px;
+
 }
 
 .project {
   margin: auto;
   width: 900px;
   padding: 20px;
-  background-color: grey;
+  background-color: #1f2833;
   border-radius: 10px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  border-style: solid;
+  border-color: #66fcf1;
 }
+
+/* #66fcf1 */
 
 .project-item {
   padding: 10px;
@@ -89,7 +94,7 @@ h1 {
 }
 
 img {
-  width: 10%;
+  width: 12%;
   height: 100%;
 }
 
@@ -117,5 +122,59 @@ h2 {
 }
 
 h3 {
-  color: white;
+  color: #c5c6c7;
+}
+
+.contact {
+  margin: auto;
+  width: 600px;
+  padding: 20px;
+  background-color: #1f2833;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-style: solid;
+  border-color: #66fcf1;
+}
+
+.get-in-touch {
+  text-align: center;
+}
+
+.contact-info-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: auto;
+}
+
+.contact-info {
+  width: 100%;
+}
+
+.headshot-container {
+  text-align: right;
+}
+
+.headshot {
+  width: 90%;
+  text-align: center;
+  padding-right: 20px;
+}
+
+p, h2, h4 {
+  color: #c5c6c7;
+}
+
+h6 {
+  color: #66fcf1
+}
+
+.resume-icon {
+  height: 20%;
+}
+
+.resume-icon:focus, .resume-icon:hover {
+  animation: wobble 1s 1;
 }
