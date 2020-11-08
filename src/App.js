@@ -32,16 +32,10 @@ class App extends React.Component {
           <ProjectContainer/>
         </div>
         <div>
-          <BlogContainer/>
-        </div>
-        <div>
           <Contact/>
         </div>
-        
-
-        {/* {this.state.page === "Project" ? <ProjectContainer/> : null}
-        {this.state.page === "Home" ? <Home/> : null}
-        {this.state.page === "Blog" ? <BlogContainer/> : null} */}
+        <br/>
+        <br/>
       </div>
     )
   }

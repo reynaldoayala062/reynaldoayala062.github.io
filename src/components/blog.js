@@ -13,7 +13,7 @@ class Blog extends React.Component {
         return(
             <div className="blog" >
                 <h6>{this.props.blog.title}</h6>
-                <div dangerouslySetInnerHTML={this.renderBlog()}></div>
+                {/* <div dangerouslySetInnerHTML={this.renderBlog()}></div> */}
             </div>
         )
     }
