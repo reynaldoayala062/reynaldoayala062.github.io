@@ -1,11 +1,15 @@
 import React from 'react';
 import { Slide } from "react-awesome-reveal";
+import { JackInTheBox } from "react-awesome-reveal";
 
 class ProjectContainer extends React.Component {
 
     render() {
         return(
             <div className="project-container">
+                <JackInTheBox>
+                <h1 className="title"> All Projects </h1>
+                </JackInTheBox>
                 <div className="project">
                     <Slide>
                         <div className="project-item">

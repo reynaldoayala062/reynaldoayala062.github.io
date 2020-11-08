@@ -3,7 +3,7 @@ import NavBar from './components/navbar'
 import Home from './components/home'
 import ProjectContainer from './components/project_container'
 import BlogContainer from './components/blog_container'
-import Resume from './components/resume'
+import Contact from './components/contact'
 import './App.css'; 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
@@ -32,7 +32,10 @@ class App extends React.Component {
           <ProjectContainer/>
         </div>
         <div>
-          <Resume/>
+          <BlogContainer/>
+        </div>
+        <div>
+          <Contact/>
         </div>
         
 
