@@ -33,6 +33,7 @@ class ProjectContainer extends React.Component {
                             <p>Remake of the famous Tetris Game</p>
                             <p>Frontend: JavaScript, CSS, and HTML</p>
                             <p>Backend: Ruby on Rails </p>
+                            <a href="https://www.linkedin.com/in/eduardogonzalezhernandez9/" target="blank" ><h6>Partners: Eduardo Gonzales</h6></a>
                             <a href="https://github.com/reynaldoayala062/block-buster" target="blank" ><h6>Git Hub</h6></a>
                             <a href="https://www.linkedin.com/feed/update/urn:li:activity:6723308305382465536/" target="blank" ><h6>Linked In</h6></a>
                         </div>
@@ -65,8 +66,9 @@ class ProjectContainer extends React.Component {
                             <p>Social Media platform for hickers.</p>
                             <p>Frontend: JavaScript, CSS, and HTML</p>
                             <p>Backend: Ruby on Rails </p>
+                            <a href="https://www.linkedin.com/in/spencer-smith817/" target="blank" ><h6>Partners: Spencer Smith </h6></a>
                             <a href="https://github.com/smithspencer817/mountainman" target="blank" ><h6>Git Hub</h6></a>
-                            <a href="https://www.linkedin.com/feed/update/urn:li:activity:6725052626108510208/" target="blank" ><h6>Linked In</h6></a>
+                            <a href="https://www.linkedin.com/in/spencer-smith817/" target="blank" ><h6>Linked In</h6></a>
                         </div>
                     </Slide>
                 </div>
