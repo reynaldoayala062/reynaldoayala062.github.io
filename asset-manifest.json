@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.434d56b7.chunk.css",
-    "main.js": "/static/js/main.e7c92591.chunk.js",
-    "main.js.map": "/static/js/main.e7c92591.chunk.js.map",
+    "main.js": "/static/js/main.a4dc6d98.chunk.js",
+    "main.js.map": "/static/js/main.a4dc6d98.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8bd8cea3.js",
     "runtime-main.js.map": "/static/js/runtime-main.8bd8cea3.js.map",
     "static/css/2.109aacae.chunk.css": "/static/css/2.109aacae.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.109aacae.chunk.css.map": "/static/css/2.109aacae.chunk.css.map",
     "static/css/main.434d56b7.chunk.css.map": "/static/css/main.434d56b7.chunk.css.map",
     "static/js/2.54e3412a.chunk.js.LICENSE.txt": "/static/js/2.54e3412a.chunk.js.LICENSE.txt",
-    "static/media/Reynaldo Ayala Resume - Google Docs.8e7d134b.pdf": "/static/media/Reynaldo Ayala Resume - Google Docs.8e7d134b.pdf",
+    "static/media/Reynaldo Ayala Resume - Google Docs.c5f0caf9.pdf": "/static/media/Reynaldo Ayala Resume - Google Docs.c5f0caf9.pdf",
     "static/media/Screen Shot 2020-07-30 at 9.42.20 AM.3e871227.png": "/static/media/Screen Shot 2020-07-30 at 9.42.20 AM.3e871227.png",
     "static/media/Screen Shot 2020-10-31 at 10.42.04 AM.0c84305e.png": "/static/media/Screen Shot 2020-10-31 at 10.42.04 AM.0c84305e.png",
     "static/media/Screen Shot 2020-10-31 at 10.44.57 AM.2747d8c1.png": "/static/media/Screen Shot 2020-10-31 at 10.44.57 AM.2747d8c1.png",
@@ -28,6 +28,6 @@
     "static/css/2.109aacae.chunk.css",
     "static/js/2.54e3412a.chunk.js",
     "static/css/main.434d56b7.chunk.css",
-    "static/js/main.e7c92591.chunk.js"
+    "static/js/main.a4dc6d98.chunk.js"
   ]
 }
