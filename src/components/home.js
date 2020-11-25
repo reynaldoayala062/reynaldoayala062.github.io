@@ -36,7 +36,7 @@ class Home extends React.Component {
                         alt="Third slide"
                         />
                         <Carousel.Caption>
-                        <a href="https://medium.com/@reynaldo_ayala/how-to-use-react-bootstrap-table-on-react-js-d7006564b297 "><h1>Blogs</h1></a>
+                        <a href="https://medium.com/@reynaldo_ayala" target="blank" ><h1>Blogs</h1></a>
                         <p>Facial Recognition with JavaScript, How to use React Bootstrap Table on React.js, and How Hackers Make a Living: Bug Bounty Edition </p>
                         </Carousel.Caption>
                     </Carousel.Item>
